@@ -1,4 +1,3 @@
-export JAX_NUM_CPU_DEVICES=2
 num_processes=4
 
 range=$(seq 0 $(($num_processes - 1)))
